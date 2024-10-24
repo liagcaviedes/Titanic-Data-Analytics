@@ -18368,3 +18368,13 @@ dtype: int64}]))),
 2024-10-24 19:11:52,787:INFO:Preloading libraries
 2024-10-24 19:11:52,788:INFO:Set up data.
 2024-10-24 19:11:52,790:INFO:Set up index.
+2024-10-24 19:27:25,722:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-24 19:27:25,722:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-24 19:27:25,722:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-24 19:27:25,722:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-24 19:27:25,964:INFO:Initializing load_model()
+2024-10-24 19:27:25,964:INFO:load_model(model_name=model/ada_model, platform=None, authentication=None, verbose=True)
