@@ -6,7 +6,7 @@ import os
 import matplotlib.pyplot as plt
 
 st.title('Conclusiones del análisis')
-st.subheader('Desmontando el mito de "Mujeres y niños primero"')
+st.subheader('La Influencia de la Clase Social: Reevaluando el principio de "Primero mujeres y niños"')
 st.write("")
 st.write("")
 
