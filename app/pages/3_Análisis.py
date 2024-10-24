@@ -100,13 +100,11 @@ with tab1:
             st.subheader('Comentarios:')
             st.markdown("""
                         
-- Grandes diferencias entre los tipos de clase. 
-- POSH en inglés: Port Out, Starboard Home. 
+- POSH. Grandes diferencias entre los tipos de clase.
 - Además de su status social, los pasajeros de 1st y 2nd class viajaban en la parte superior del barco, mientras que la 3rd class viajaba en la parte inferior.
 - Tuvieron además información más rapida de la situación y acceso a los botes salvavidas.
 - Veamos el impacto de la clase social con cada una de las variables. 
 - Vamos a ver el impacto 
-- POSH en inglés: Port Out, Starboard Home. 
 
 """)   
 #-----------------------------------------------subtab2-------------------------------------------------#
