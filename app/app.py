@@ -42,8 +42,7 @@ with col2:
     st.subheader('Resultado final')
     st.markdown("""
     - Análisis de la tasa de supervivencia por variable.
-    - El impacto de la clase Social: 
-        - Desmontando el mito de "Mujeres y niños primero".
+    - La Influencia de la Clase Social: Reevaluando el principio de "Primero mujeres y niños".
     - Modelo predictivo de supervivencia.
     """)
 

@@ -7,8 +7,8 @@ import plotly.graph_objects as go
 
 st.set_page_config(page_title='titanic project', layout='wide', initial_sidebar_state='auto')
 
-st.title('El impacto de la clase social en la supervivencia del Titanic')
-st.subheader('Desmontando el mito de "Mujeres y niños primero"')
+st.title('La influencia de la clase social en la supervivencia del Titanic')
+st.subheader('Reevaluando el principio de "Mujeres y niños primero"')
 
 st.sidebar.title('menu app')
 df_imputed = pd.read_csv('data/df_imputed2.csv')
