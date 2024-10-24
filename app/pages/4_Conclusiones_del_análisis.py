@@ -12,8 +12,10 @@ st.write("")
 
 st.markdown("""
             
-- La clase social es la variable que más impacta en la tasa de supervivencia. 
+- Visto el impacto que tiene combinada con otras variables, podemos decir que la clase social es la variable que más impacta en la tasa de supervivencia. 
 
-- A pesar de que no podemos afirmar que la clase social influyera directamente en la supervivencia de los pasajeros, sí que podemos ver que la clase social influyó más que otras variables en la probabilidad de supervivencia de los pasajeros.
+- A pesar de que no podemos afirmar que la clase social tuviera una correlación directa en la supervivencia de los pasajeros, influyó en gran medida. 
+
+- Unidos a otros factores que también tienen un gran peso en la tasa de supervivencia como el sexo y la edad, la clase social fue determinante en la supervivencia de los pasajeros.
 
 """)
