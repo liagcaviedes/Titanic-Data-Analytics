@@ -1,0 +1,66 @@
+2024-10-18 20:26:08,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 20:26:08,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 20:26:08,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 20:26:08,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 20:26:09,167:INFO:Initializing load_model()
+2024-10-18 20:26:09,167:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:14:25,981:INFO:Initializing load_model()
+2024-10-18 21:14:25,983:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:14:44,755:INFO:Initializing load_model()
+2024-10-18 21:14:44,756:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:21:17,163:INFO:Initializing load_model()
+2024-10-18 21:21:17,166:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:21:42,356:INFO:Initializing load_model()
+2024-10-18 21:21:42,357:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:23:08,974:INFO:Initializing load_model()
+2024-10-18 21:23:08,974:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:47:09,023:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:47:09,024:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:47:09,024:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:47:09,024:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:47:09,420:INFO:Initializing load_model()
+2024-10-18 21:47:09,420:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:52:02,788:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:52:02,788:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:52:02,788:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:52:02,788:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 21:52:03,200:INFO:Initializing load_model()
+2024-10-18 21:52:03,200:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:55:39,479:INFO:Initializing load_model()
+2024-10-18 21:55:39,480:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 21:58:54,762:INFO:Initializing load_model()
+2024-10-18 21:58:54,763:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/app/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-18 22:00:38,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 22:00:38,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 22:00:38,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 22:00:38,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 22:00:38,880:INFO:Initializing load_model()
+2024-10-18 22:00:38,881:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/app/model/Logregpycaret.pkl, platform=None, authentication=None, verbose=True)
+2024-10-20 23:45:06,916:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-20 23:45:06,916:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-20 23:45:06,916:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-20 23:45:06,916:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-20 23:45:45,541:INFO:Initializing load_model()
+2024-10-20 23:45:45,543:INFO:load_model(model_name=/Users/lia/Desktop/Upgrade_Hub/Temario/Modulo_1/Proyecto_Modulo_1/TITANIC_LIA/model/Logregpycaret2.pkl, platform=None, authentication=None, verbose=True)
+2024-10-20 23:46:13,145:INFO:Initializing load_model()
+2024-10-20 23:46:13,147:INFO:load_model(model_name=../Logregpycaret2.pkl, platform=None, authentication=None, verbose=True)
