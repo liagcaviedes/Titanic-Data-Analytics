@@ -130,3 +130,18 @@ Run the Streamlit app locally:
 streamlit run app.py
 ```
 Open the browser at [http://localhost:8501](http://localhost:8501) to interact with the app.
+
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+### Author
+
+- **Name**: Rosalía González Caviedes
+- **Email**: rosaliagonzalezc@gmail.com
+- [LinkedIn profile](https://www.linkedin.com/in/rosaliagonzalezcaviedes/)
+
+### Contributing
+We welcome contributions to this project! Please submit a pull request or open an issue if you have suggestions or improvements.
