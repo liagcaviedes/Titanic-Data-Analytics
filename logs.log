@@ -18388,3 +18388,47 @@ dtype: int64}]))),
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2024-10-24 20:31:15,100:INFO:Initializing load_model()
 2024-10-24 20:31:15,101:INFO:load_model(model_name=model/ada_model, platform=None, authentication=None, verbose=True)
+2024-10-28 08:51:04,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-28 08:51:04,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-28 08:51:04,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-28 08:51:04,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-28 08:51:05,110:INFO:Initializing load_model()
+2024-10-28 08:51:05,110:INFO:load_model(model_name=model/ada_model, platform=None, authentication=None, verbose=True)
+2024-10-28 08:51:16,289:INFO:Initializing load_model()
+2024-10-28 08:51:16,290:INFO:load_model(model_name=model/ada_model, platform=None, authentication=None, verbose=True)
+2024-10-28 09:52:42,636:INFO:Initializing load_model()
+2024-10-28 09:52:42,639:INFO:load_model(model_name=model/ada_model, platform=None, authentication=None, verbose=True)
+2024-10-28 09:53:01,431:INFO:Initializing load_model()
+2024-10-28 09:53:01,434:INFO:load_model(model_name=model/ada_model, platform=None, authentication=None, verbose=True)
+2024-10-28 09:53:01,530:INFO:Initializing predict_model()
+2024-10-28 09:53:01,530:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x10457c250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pclass', 'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Sex', 'Embarked'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['Sex'],
+                                    transformer=OrdinalEncoder(cols=['Sex'],
+                                                               handle_missing='return_nan',
+                                                               mapping=[{'col': 'Sex',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': female    0
+male      1
+NaN      -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['Embarked'],
+                                    transformer=OneHotEncoder(cols=['Embarked'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', AdaBoostClassifier(random_state=357))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x2834877e0>)
+2024-10-28 09:53:01,530:INFO:Checking exceptions
+2024-10-28 09:53:01,530:INFO:Preloading libraries
+2024-10-28 09:53:01,540:INFO:Set up data.
+2024-10-28 09:53:01,550:INFO:Set up index.
